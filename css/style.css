@@ -1,0 +1,225 @@
+@charset "utf-8";
+body{
+    background-color: #E8E8E8;
+}
+header{
+    width: 16rem;
+    height: 4.25rem;
+    background-color: #38474F;
+}
+header .top{
+    width: 14.775rem;
+    height: 2.175rem;
+    line-height: 2.175rem;
+    margin-left: 0.6rem;
+}
+header .top span{
+    font-size: 0.8rem;
+    color: #232B2F;
+    position: relative;
+}
+header .top h3{
+    font-size: 0.3rem;
+    color: white;
+    font-weight: normal;
+    margin-left: 1.05rem;
+}
+header .top span em{
+    position: absolute;
+    left: 0.625rem;top: 0.75rem;
+    width: 0.7rem;
+    font-size: 0.25rem;
+    height: 0.45rem;
+    display: inline-block;
+    background-color: white;
+    color: black;
+    line-height: 0.45rem;
+    text-align: center;
+    border-radius: 0.225rem;
+}
+header .bootom{
+    margin-top: 0.15rem;
+    width: 14.75rem;
+    margin-left: 0.6rem;
+}
+header .bottom a{
+    display: inline-block;
+    width: 7.175rem;
+    height: 1.575rem;
+    line-height: 1.575rem;
+    text-align: center;
+    color: white;
+    font-size: 0.5rem;
+    border-radius: 0.05rem;
+}
+header .bottom .btn1{background-color: #2D3A40;}
+header .bottom .btn2{background-color: #F6846A;}
+.bn{
+    margin: 0.625rem 0rem 0.6rem 0.6rem;
+}
+.banner{
+    width: 14.8rem;
+    border-radius: 0.15rem;
+    box-shadow: 0 0.05rem rgba(0, 0, 0, .3);
+    background-color: white;
+}
+.banner img{
+    width: 14.8rem;
+}
+.banner .text{
+    height: 3rem;
+    line-height: 3rem;
+}
+.banner .text p{
+    font-size: 0.65rem;
+    margin-left: 1.1rem;
+    color: black;
+    line-height: 3rem;
+    font-weight: bold;
+}
+.banner .text a{
+    width: 3.6rem;
+    height: 1.675rem;
+    line-height: 1.675rem;
+    display: inline-block;
+    background-color: #BFBFC4;
+    font-size: 0.55rem;
+    text-align: center;
+    margin-top: 0.7rem;
+    margin-right: 0.65rem;
+    color: #FFFFFF;
+}
+.banner1{
+    margin-top: 0.775rem;
+    width: 14.8rem;
+    height: 2.5rem;
+    line-height: 2.475rem;
+    border-radius: 0.15rem;
+    box-shadow: 0 0.05rem rgba(0, 0, 0, .3);
+    background-color: white;
+}
+.banner1 p{
+    font-size: 0.65rem;
+    color: black;
+    font-weight: bold;
+}
+.banner1 span{
+    font-size: 0.35rem;
+    margin-left: 1.075rem;
+    margin-right: 1.1rem;
+}
+.banner2{
+    margin-top: 0.775rem;
+    width: 14.8rem;
+    height: 12.75rem;
+    border-radius: 0.15rem;
+    box-shadow: 0 0.05rem rgba(0, 0, 0, .3);
+    background-color: white;
+    box-sizing: border-box;
+}
+.banner2 h3{
+    font-size: 0.65rem;
+    text-align: center;
+    color: black;
+    padding-top: 0.775rem;
+    font-weight: normal;
+}
+.banner2 p{
+    font-size: 0.65rem;
+    color: #A5A5AD;
+    text-align: center;
+    padding-top: 0.3rem;
+    padding-bottom: 0.625rem;
+}
+.banner2 .span{
+    text-align: center;
+}
+.banner2 .span span{
+    width: 1.775rem;
+    height: 1.775rem;
+    display: inline-block;
+    background-color: #D9D9DD;
+    margin: 0rem 0.55rem;
+    text-align: center;
+    line-height: 1.775rem;
+    font-size: 0.3rem;
+    border-radius: 0.05rem;
+}
+.banner2 .span .span1{
+    background: url(../img/duigou.png) no-repeat center center;
+    background-color: #F0C9CE;
+    background-size: 0.7rem 0.7rem;
+}
+.banner2 .span .span2{
+    background-color: #AF687A;
+
+}
+.banner2 .span .span3{
+    background-color:#87A6B2;
+
+}
+.banner2 .span .active{
+    background-color: #67AFD5;
+    color: white;
+}
+.banner2 .span span:hover{
+    background-color: #67AFD5;
+    color: white;
+}
+.banner2 .top{
+    height: 6.275rem;
+    border-bottom: 1px solid #DCDCDC;
+}
+.banner2 .bottom{
+    height:6.275rem;
+}
+.banner2 .top .col {
+    background: url(../img/\ colour.png) no-repeat 5.7rem 0.875rem;
+    background-size: 0.55rem 0.65rem;
+}
+.banner2 .bottom .size {
+    background: url(../img/size.png) no-repeat 5.9rem 0.875rem;
+    background-size: 0.775rem 0.65rem;
+}
+.add{
+    text-align: center;
+}
+.add a{
+    width: 6.925rem;
+    display: inline-block;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+    color: white;
+    font-size: 0.475rem;
+    background-color: #3A4144;
+    border-radius: 0.1rem;
+}
+footer h3{
+    margin-top: 1.85rem;
+    font-size: 0.6rem;
+    margin-left: 0.7rem;
+}
+footer .bottom ul{
+    margin-top: 1.15rem;
+}
+footer .bottom ul li img{
+    width: 1.85rem;
+    height: 1.85rem;
+}
+footer .bottom ul li{
+    float: left;
+    width: 3.95rem;
+    margin-left: 1.5rem;
+    padding-bottom: 1rem;
+}
+footer .bottom ul li span{
+    width: 1.475rem;
+    display: inline-block;
+    height: 0.975rem;
+    background-color: white;
+    color: black;
+    font-size: 0.3rem;
+    line-height: 0.975rem;
+    text-align: center;
+}
